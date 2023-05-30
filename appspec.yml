@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source:  /
-    destination: /home/ubuntu/efub3-session
+    destination: /home/ubuntu/efub3-backend-session
     overwrite: yes
 file_exists_behavior: OVERWRITE
 permissions:
